@@ -1,0 +1,27 @@
+{
+  "name": "anaconstrap",
+  "description": "anaconstrap.com",
+  "main": "gulpfile.js",
+  "authors": [
+    "Samir Sadek"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "gulp",
+    "bootstrap",
+    "pug",
+    "sass"
+  ],
+  "homepage": "https://github.com/netsamir/anaconstrap",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "v4-dev"
+  }
+}
